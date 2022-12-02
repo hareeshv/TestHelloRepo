@@ -1,3 +1,3 @@
 # TestHelloRepo
 
-Run this command : echo "Hello World!"
+Run this command : run.sh "Hello, World!"
